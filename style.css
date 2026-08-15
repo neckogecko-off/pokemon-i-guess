@@ -10,8 +10,4 @@ body {
     border: 2px solid #444;
     image-rendering: pixelated;
   }
-  #info {
-    margin-top: 10px;
-    font-size: 14px;
-    color: #aaa;
-  }
+  
